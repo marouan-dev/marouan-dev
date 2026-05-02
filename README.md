@@ -2,7 +2,9 @@
 <h3 align="center">🚀 Full-Stack Web Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:achhaiba.marouane@gmail.com">📧 Email</a> •
+  <a href="https://mail.google.com/mail/?view=cm&to=achhaiba.marouane@gmail.com">
+  📧 Email
+</a>
   <a href="https://github.com/marouan-dev">💻 GitHub</a> •
   <a href="#">🌐 Portfolio</a>
 </p>
